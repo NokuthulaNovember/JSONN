@@ -1,0 +1,41 @@
+page-course {
+    .list{
+        margin:10px;
+    }
+    [ion-item]{
+        padding: 10px;
+        margin-top: 10px;
+        background-color: beige;
+        border-radius:20px;
+        color:brown;
+    }
+    .lesson{
+        color:purple;
+    }
+    .item p{
+        color:pink;
+    }
+    .list-header{
+        background-color: pink;
+        height:60px;
+        border-radius:20px;
+    text-decoration-color: purple;
+    }
+    .b{
+        background-color:rgb(180, 128, 180);
+        color:pink;
+    }
+    .pic{
+    height: 50%;
+    width: 50%;
+    border-radius: 10%;
+    background-color: beige;
+    }
+    [ion-card]{
+        background-color:pink;
+
+    }
+    .t{
+        background-color:pink;
+    }
+}
